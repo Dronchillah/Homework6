@@ -1,0 +1,3 @@
+Charlie 12 John Brown 34 London,_Downing_str,_10 +380983412657
+Kuzya 9 Anastasiya Popovich 21 Dnipro,_Hoholya_str,_19 +380228133777
+Semen 2 Andrii Kurbatov 20 Dnipro,_Husenka_str,_89 +3804815162342
